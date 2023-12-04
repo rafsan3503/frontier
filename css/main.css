@@ -7,7 +7,7 @@ html {
 body {
   margin: 0;
   box-sizing: border-box;
-  overflow: hidden;
+  
 }
 
 article,
@@ -2293,7 +2293,7 @@ textarea.w-select {
 
 body {
   color: rgba(255, 255, 255, 0.8);
-  background-color: #222335;
+  background-color: rgb(33, 32, 32);
   font-family: Uncut Sans, sans-serif;
   font-size: 18px;
   font-weight: 400;
@@ -2434,7 +2434,7 @@ figcaption {
 
 .section.wide {
   max-width: 1680px;
-  max-height: 100vh;
+  min-height: 100vh;
   perspective: 1px;
   margin-left: auto;
   margin-right: auto;
@@ -3095,7 +3095,7 @@ figcaption {
   padding-bottom: 144px;
   position: relative;
   overflow: hidden;
-  max-height: 99vh;
+  
 }
 
 .seciton-inner.reduced-top-padding {
